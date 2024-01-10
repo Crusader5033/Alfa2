@@ -34,27 +34,27 @@ TextCompressorJecna is a Python command-line interface (CLI) program designed fo
    filename = ../log/log.log
    level = INFO
    format = %(asctime)s - %(levelname)s - %(message)s
--*Note: After any changes to the configuration file, restart the program.
--By default there is a exammple text file for demonstration.
+-Note: After any changes to the configuration file, restart the program.<br/>
+-By default there is a exammple text file for demonstration.<br/>
 ## Menu Options:
 
--Type 1 or compress to compress a file.
--Type 2 or decompress to decompress a file.
--Type 3 or log to view logs. Choose between displaying all logs or applying a filter.
--Type 4 or help to view the help menu.
--Type 0 or exit to exit the program.
+-Type 1 or compress to compress a file.<br/>
+-Type 2 or decompress to decompress a file.<br/>
+-Type 3 or log to view logs. Choose between displaying all logs or applying a filter.<br/>
+-Type 4 or help to view the help menu.<br/>
+-Type 0 or exit to exit the program.<br/>
 ## Help Menu:
 
--View help menu for detailed instructions on setting up the configuration file.
--Follow the instructions for selecting paths for compression, output, dictionary, and decompiled files.
+-View help menu for detailed instructions on setting up the configuration file.<br/>
+-Follow the instructions for selecting paths for compression, output, dictionary, and decompiled files.<br/>
 
 ## Logging:
 
--Logs are stored in the log directory.__
--Filter logs by choosing to display all logs or applying a filter based on log type (INFO/ERROR).
+-Logs are stored in the log directory.<br/>
+-Filter logs by choosing to display all logs or applying a filter based on log type (INFO/ERROR).<br/>
 
 ## Running the Program:
--Open cmd.
--Move to directory where the program is, then move to src folder.
--Execute main.py to run the program. Just type : python main.py
--Follow the on-screen menu instructions to perform the desired operation.
+-Open cmd.<br/>
+-Move to directory where the program is, then move to src folder.<br/>
+-Execute main.py to run the program. Just type : python main.py<br/>
+-Follow the on-screen menu instructions to perform the desired operation.<br/>
