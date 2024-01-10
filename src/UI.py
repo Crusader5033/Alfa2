@@ -44,7 +44,7 @@ class CLI:
                         self.display_log_filter(filter_string)
                     else:
                         print("Invalid choice")
-                        break
+
                 elif choice == '4'or choice.lower() == "help":
                     self.display_help()
                 elif choice == '0'or choice.lower() == "exit":

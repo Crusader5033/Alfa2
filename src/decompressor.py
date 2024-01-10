@@ -32,7 +32,7 @@ class Decompressor:
             with open(output_file, 'w') as outfile:
                 outfile.write(original_content)
 
-            self.logger.log_info("Decomression process completed successfully.")
+            self.logger.log_info("Decompression process completed successfully.")
         except Exception as e:
             self.logger.log_error(f"An error occurred: {str(e)}")
             raise
