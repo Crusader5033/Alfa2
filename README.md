@@ -58,3 +58,12 @@ TextCompressorJecna is a Python command-line interface (CLI) program designed fo
 -Move to directory where the program is, then move to src folder.<br/>
 -Execute main.py to run the program. Just type : python main.py<br/>
 -Follow the on-screen menu instructions to perform the desired operation.<br/>
+
+-Tested by my fellow classmates
+
+![Výstřižek+](https://github.com/Crusader5033/Alfa2/assets/113086006/57ab53db-4c26-41de-8e37-e87c1c8e3e97)
+<br/>
+
+![Výstřižek2](https://github.com/Crusader5033/Alfa2/assets/113086006/dc722409-a460-4808-8f81-b9c61564f318)
+
+
