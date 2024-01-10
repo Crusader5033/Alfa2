@@ -34,7 +34,7 @@ TextCompressorJecna is a Python command-line interface (CLI) program designed fo
    filename = ../log/log.log
    level = INFO
    format = %(asctime)s - %(levelname)s - %(message)s
--**Note: After any changes to the configuration file, restart the program.
+-*Note: After any changes to the configuration file, restart the program.
 -By default there is a exammple text file for demonstration.
 ## Menu Options:
 
