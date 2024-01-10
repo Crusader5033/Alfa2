@@ -34,28 +34,27 @@ TextCompressorJecna is a Python command-line interface (CLI) program designed fo
    filename = ../log/log.log
    level = INFO
    format = %(asctime)s - %(levelname)s - %(message)s
--Note: After any changes to the configuration file, restart the program.__
--By default there is a exammple text file for demonstration.__
+-Note: After any changes to the configuration file, restart the program.
+-By default there is a exammple text file for demonstration.
 ## Menu Options:
 
--Type 1 or compress to compress a file.__
--Type 2 or decompress to decompress a file.__
--Type 3 or log to view logs. Choose between displaying all logs or applying a filter.__
--Type 4 or help to view the help menu.__
--Type 0 or exit to exit the program.__
-
+-Type 1 or compress to compress a file.
+-Type 2 or decompress to decompress a file.
+-Type 3 or log to view logs. Choose between displaying all logs or applying a filter.
+-Type 4 or help to view the help menu.
+-Type 0 or exit to exit the program.
 ## Help Menu:
 
--View help menu for detailed instructions on setting up the configuration file.__
--Follow the instructions for selecting paths for compression, output, dictionary, and decompiled files.__
+-View help menu for detailed instructions on setting up the configuration file.
+-Follow the instructions for selecting paths for compression, output, dictionary, and decompiled files.
 
 ## Logging:
 
 -Logs are stored in the log directory.__
--Filter logs by choosing to display all logs or applying a filter based on log type (INFO/ERROR).__
+-Filter logs by choosing to display all logs or applying a filter based on log type (INFO/ERROR).
 
 ## Running the Program:
--Open cmd.__
--Move to directory where the program is, then move to src folder.__
--Execute main.py to run the program. Just type : python main.py__
--Follow the on-screen menu instructions to perform the desired operation.__
+-Open cmd.
+-Move to directory where the program is, then move to src folder.
+-Execute main.py to run the program. Just type : python main.py
+-Follow the on-screen menu instructions to perform the desired operation.
